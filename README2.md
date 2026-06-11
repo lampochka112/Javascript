@@ -1,6 +1,6 @@
 # 📘 Основы работы с JavaScript
 
-> Фундаментальные знания, необходимые для back-end (Node.js) и front-end (React/Vanilla JS) разработки.
+> Фундаментальные знания, необходимые для back-end (Node.js) и front-end (React/Vanilla JS) разработки. 
 
 ## 1. 🏗️ Переменные и типы данных
 
